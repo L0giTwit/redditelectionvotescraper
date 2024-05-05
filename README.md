@@ -4,3 +4,6 @@ This bot scrapes the current vote counts for each candidate from Election Commis
 
 
 This project is for the 2024 General Elections. Vote counting starts from the 4th of June, 2024.
+
+
+By Sohan Bhattacharya
